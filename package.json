@@ -1,0 +1,22 @@
+{
+  "name": "even-or-odd",
+  "version": "2.1.0",
+  "description": "Module to check if a number is even or odd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GNU",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirankumarAmbati/even-or-odd.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/KirankumarAmbati/even-or-odd/issues"
+  },
+  "homepage": "https://github.com/KirankumarAmbati/even-or-odd#readme"
+}
